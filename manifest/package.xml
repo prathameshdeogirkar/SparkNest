@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>ApprovalProcess</name>
+	</types>
+	<types>
+		<members>Account_Audit_Trail__c</members>
+		<members>Drop_Reservation__c</members>
+		<members>Enquiry__c</members>
+		<members>Flow_Setting__c</members>
+		<members>Territory__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Spark_Nest_Home</members>
+		<members>Spark_Nest_UtilityBar</members>
+		<name>FlexiPage</name>
+	</types>
+	<types>
+		<members>Account_Audit_Trail_Flow</members>
+		<members>Auto_Assign_Territory_to_Account</members>
+		<members>Birthday_Email_Flow</members>
+		<members>Candidate_Registration_Flow</members>
+		<members>Clone_Account_Flow</members>
+		<members>Closed_Won_Opportunities</members>
+		<members>Contact_Region_Flow</members>
+		<members>New_Bot_Opp</members>
+		<members>Opportunity_Approval_Flow</members>
+		<members>Review_Opportunity_with_Account_Owner</members>
+		<name>Flow</name>
+	</types>
+	<types>
+		<members>Account_Audit_Trail__c-Account Audit Trail Layout</members>
+		<members>Drop_Reservation__c-Drop Reservation Layout</members>
+		<members>Drop_Reservation__c-Premium Drop Reservation Layout</members>
+		<members>Enquiry__c-Enquiry Layout</members>
+		<members>Territory__c-Territory Layout</members>
+		<name>Layout</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>PermissionSet</name>
+	</types>
+	<version>67.0</version>
+</Package>
