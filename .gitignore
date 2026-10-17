@@ -53,3 +53,6 @@ SparkNest_Contacts.csv
 
 # JVM crash logs
 hs_err_pid*.log
+
+# Local Salesforce backups
+backup/
